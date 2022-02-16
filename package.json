@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Maella-f99/NodeJs_API/issues"
   },
-  "homepage": "https://github.com/Maella-f99/NodeJs_API#readme"
+  "homepage": "https://github.com/Maella-f99/NodeJs_API#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
